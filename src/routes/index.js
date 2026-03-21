@@ -1,5 +1,5 @@
 import { Router } from "express";
-import AppError from "../errors/AppError.js";
+import {AppError} from "../errors/AppError.js";
 
 const router = Router();
 
